@@ -4,7 +4,7 @@
 
 - 🇫🇷 Based in France 
 - 👨🏼‍🎓 Student at [42Paris](https://42.fr/en/homepage/)
-- 💼 Building the AI data IDE, made by data teams, for data teams at [nao](https://getnao. io/)
+- 💼 Building the AI data IDE, made by data teams, for data teams at [nao](https://getnao.io/)
 - 🌱 I am interested in Web Development, Machine Learning, AI Integrations and many more ...
 <!--
 **MatLBS/MatLBS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
