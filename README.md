@@ -49,6 +49,10 @@ Here are some ideas to get you started:
 </p>
 
 <h2>&nbsp;Learning</h2>
+
 <p align="left">
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Model_Context_Protocol_logo.png" alt="mcp" width="45" height="45"/>
+  <a href="https://modelcontextprotocol.io/docs/getting-started/intro">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Model_Context_Protocol_logo.png" alt="mcp" width="45" height="45"/>
+  </a>
 </p>
+
